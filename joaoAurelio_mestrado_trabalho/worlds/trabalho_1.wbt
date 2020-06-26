@@ -1,0 +1,75 @@
+#VRML_SIM R2020a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.387082290078472 -0.848964921220606 -0.3597580620979827 1.678004776031089
+  position -15.926634750397916 17.521096928129275 2.65172666583592
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  translation 0.83343 6.66134e-16 1.3457
+  floorSize 10 10
+  floorTileSize 0.9 0.5
+  wallHeight 0.3
+}
+Pioneer3at {
+  hidden position_0_0 77438.26364704517
+  hidden position_0_1 108261.8348847435
+  hidden position_0_2 77438.15191151213
+  hidden position_0_3 108264.26370315722
+  hidden linearVelocity_0 -0.5473570636439192 -1.0885079778783307e-11 0.053853922114526505
+  hidden angularVelocity_0 9.520202437921563e-07 9.054517618104845e-07 -9.338647077602239e-08
+  hidden translation_1 -0.197 0 0.1331
+  hidden rotation_1 -1 0 0 2.4804832510779127
+  hidden linearVelocity_1 -0.5473570498775702 -1.8472185517227635e-07 0.053853827842058215
+  hidden angularVelocity_1 0.4895804093708874 -1.1320204802877476e-06 4.975973369736874
+  hidden translation_2 0.197 0 0.1331
+  hidden rotation_2 1 0 0 0.597393888019884
+  hidden linearVelocity_2 -0.5473570958878746 1.8479334242807457e-07 0.053853832213661794
+  hidden angularVelocity_2 0.48958040350885895 -1.140436965930706e-06 4.975973380289086
+  hidden translation_3 -0.197 0 -0.1331
+  hidden rotation_3 -0.9999999999999999 0 0 2.6520253665303235
+  hidden linearVelocity_3 -0.5473570464585262 -1.8479500489404957e-07 0.05385385902797201
+  hidden angularVelocity_3 0.48958042607151464 -1.1155745945241301e-06 4.975973368018438
+  hidden translation_4 0.197 0 -0.1331
+  hidden rotation_4 0.9999999999999999 0 0 0.35738676292097094
+  hidden linearVelocity_4 -0.5473570923997706 1.8472017624119375e-07 0.05385386344119112
+  hidden angularVelocity_4 0.48958042054025364 -1.1208880995924183e-06 4.975973378524113
+  translation -1.1149008650075793 0.10761106879998857 -3.011783329336037
+  rotation 0.0003511487805552442 -0.9999998631436798 -0.00038782361384048206 -1.6688695194319167
+  controller "controle_robo"
+}
+OilBarrel {
+  translation 0.81 0.49 -1.9
+}
+OilBarrel {
+  translation 0.58 0.49 4.45
+  name "oil barrel(6)"
+}
+OilBarrel {
+  translation 3.14 0.49 1.25
+  name "oil barrel(3)"
+}
+OilBarrel {
+  translation -1.35 0.49 1.4
+  name "oil barrel(4)"
+}
+OilBarrel {
+  translation -2.05 0.49 -1.56
+  name "oil barrel(1)"
+}
+OilBarrel {
+  translation -2.32 0.49 4.21
+  name "oil barrel(5)"
+}
+OilBarrel {
+  translation 3.72 0.49 -1.83
+  name "oil barrel(2)"
+}
+OilBarrel {
+  translation 3.53 0.49 4.27
+  name "oil barrel(7)"
+}
